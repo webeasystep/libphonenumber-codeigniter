@@ -1,0 +1,12 @@
+.DS_Store
+
+!application/logs/index.html
+!application/logs/.htaccess
+!application/logs/*
+!contents/*
+!sys/*
+
+# IDE Files
+#-------------------------
+.idea/*
+
